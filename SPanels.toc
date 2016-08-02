@@ -1,0 +1,11 @@
+## Interface: 70000
+## Title: SPanels by |cFFFF8080Spriithy|r
+## Notes: A simple Panel addon made for SauceK_
+## Author: Spriithy - (EU-Cho'Gall)
+## SavedVariablesPerCharacter: SPConfig
+## Version: 1
+
+
+core.lua
+panels.lua
+commands.lua
